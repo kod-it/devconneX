@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://akash:4080@cluster0.qfkcgib.mongodb.net/",
+  "jwtSecret": "my_secret_token",
+  "githubClientId": "ClienID",
+  "githubSecret": "SecretKey"
+}
